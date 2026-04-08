@@ -3,7 +3,7 @@ import re
 
 import requests
 
-WIKI_FOLDER = '..'
+WIKI_FOLDER = '.'
 
 
 def compare_timestamp(t1, t2):

@@ -1,6 +1,6 @@
 import os
 
-WIKI_FOLDER = '..'
+WIKI_FOLDER = '.'
 SKIP_EXIST = True
 
 
